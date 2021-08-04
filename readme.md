@@ -94,66 +94,66 @@ Bunu markdown içeriğinize kopyalayıp yapıştırın, hepsi bu. Basit!
 `?username=` değerini GitHub'ınızın kullanıcı adıyla değiştirin.
 
 ```md
-[![Kral Github Stat](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Emre37destan/github-istatistik)
+[![Kral Github istatistik](https://github-readme-stats.vercel.app/api?username=Emre37destan)](https://github.com/Emre37destan/github-istatistik)
 ```
 
-_Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone).
-The values are calculated by using the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
-The implementation can be investigated at [src/calculateRank.js](./src/calculateRank.js)_
+_Not: Mevcut rütbeler S+ (ilk %1), S (ilk %25), A++ (ilk %45), A+ (ilk %60) ve B+'dır (herkes).
+Değerler, taahhütler, katkılar, sorunlar, yıldızlar, çekme istekleri, takipçiler ve sahip olunan depolar kullanılarak [kümülatif dağıtım işlevi](https://en.wikipedia.org/wiki/Cumulative_distribution_function) kullanılarak hesaplanır.
+Uygulama şurada incelenebilir: [src/calculateRank.js](./src/calculateRank.js)_
 
-### Hiding individual stats
+### Bireysel istatistikleri gizleme
 
-To hide any specific stats, you can pass a query parameter `?hide=` with comma-separated values.
+Belirli istatistikleri gizlemek için `?hide=` sorgu parametresini virgülle ayrılmış değerlerle iletebilirsiniz.
 
-> Options: `&hide=stars,commits,prs,issues,contribs`
+> Seçenekler: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Kral Github istatistik](https://github-readme-stats.vercel.app/api?username=Emre37destan&hide=contribs,prs)
 ```
 
-### Adding private contributions count to total commits count
+### Toplam taahhüt sayısına özel katkı sayısı ekleme
 
-You can add the count of all your private contributions to the total commits count by using the query parameter `?count_private=true`.
+Sorgu parametresini kullanarak tüm özel katkılarınızın sayısını toplam taahhüt sayısına ekleyebilirsiniz. `?count_private=true`.
 
-_Note: If you are deploying this project yourself, the private contributions will be counted by default otherwise you need to chose to share your private contribution counts._
+_Not: Bu projeyi kendiniz dağıtıyorsanız, özel katkılar varsayılan olarak sayılacaktır, aksi takdirde özel katkı sayılarınızı paylaşmayı seçmeniz gerekir._
 
-> Options: `&count_private=true`
+> Seçenekler: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Kral Github istatistik](https://github-readme-stats.vercel.app/api?username=Emre37destan&count_private=true)
 ```
 
-### Showing icons
+### Simgeler gösteriliyor
 
-To enable icons, you can pass `show_icons=true` in the query param, like so:
+Simgeleri etkinleştirmek için geçebilirsiniz `show_icons=true` sorgu parametresinde şöyle:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Kral Github istatistik](https://github-readme-stats.vercel.app/api?username=Emre37destan&show_icons=true)
 ```
 
-### Themes
+### Temalar
 
-With inbuilt themes, you can customize the look of the card without doing any [manual customization](#customization).
+Dahili temalarla, herhangi bir [manuel özelleştirme](#customization) yapmadan kartın görünümünü özelleştirebilirsiniz.
 
-Use `?theme=THEME_NAME` parameter like so :-
+Use `?theme=THEME_NAME` parametre şöyle:-
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Kral Github istatistik](https://github-readme-stats.vercel.app/api?username=Emre37destan&show_icons=true&theme=radical)
 ```
 
-#### All inbuilt themes :-
+#### All yerleşik temalar :-
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
+<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub BeniOku İstatistikleri Temaları" width="600px"/>
 
-You can look at a preview for [all available themes](./themes/README.md) or checkout the [theme config file](./themes/index.js) & **you can also contribute new themes** if you like :D
+için bir önizlemeye bakabilirsiniz [mevcut tüm temalar](./themes/README.md) ya da kontrol et [tema yapılandırma dosyası](./themes/index.js) & **İsterseniz yeni temalara da katkıda bulunabilirsiniz** :D
 
-### Customization
+### Özelleştirme
 
-You can customize the appearance of your `Stats Card` or `Repo Card` however you wish with URL params.
+URL parametreleri ile `Stats Card` veya `Repo Card` ınızın görünümünü istediğiniz gibi özelleştirebilirsiniz.
 
-#### Common Options:
+#### Ortak Seçenekler:
 
 - `title_color` - Card's title color _(hex color)_
 - `text_color` - Body text color _(hex color)_
