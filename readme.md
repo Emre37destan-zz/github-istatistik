@@ -1,20 +1,20 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub İstatistik" />
+ <h2 align="center">GitHub İstatistik</h2>
+ <p align="center">Okuma dosyalarınızda dinamik olarak oluşturulmuş GitHub istatistiklerini alın!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/Emre37destan/github-istatistik/actions">
+      <img alt="Tests Passing" src="https://github.com/Emre37destan/github-istatistik/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/Emre37destan/github-istatistik">
+      <img src="https://codecov.io/gh/Emre37destan/github-istatistik/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/Emre37destan/github-istatistik/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/Emre37destan/github-istatistik?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/Emre37destan/github-istatistik/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Emre37destan/github-istatistik?color=0088ff" />
     </a>
     <br />
     <br />
@@ -27,77 +27,74 @@
   </p>
 
   <p align="center">
-    <a href="#demo">View Demo</a>
+    <a href="#demo">Demoyu Görüntüle</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/Emre37destan/github-istatistik/issues/new/choose">Hata Bildir</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/Emre37destan/github-istatistik/issues/new/choose">Özellik İste</a>
   </p>
   <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
+    <a href="/docs/readme_fr.md">Fransızca</a>
     ·
-    <a href="/docs/readme_cn.md">简体中文</a>
+    <a href="/docs/readme_cn.md">Basitleştirilmiş Çince</a>
     ·
-    <a href="/docs/readme_es.md">Español</a>
+    <a href="/docs/readme_es.md">İspanyol</a>
     ·
-    <a href="/docs/readme_de.md">Deutsch</a>
+    <a href="/docs/readme_de.md">Almanca</a>
     ·
-    <a href="/docs/readme_ja.md">日本語</a>
+    <a href="/docs/readme_ja.md">Japonca</a>
     ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
+    <a href="/docs/readme_pt-BR.md">Brezilya Portekizcesi</a>
     ·
-    <a href="/docs/readme_it.md">Italiano</a>
+    <a href="/docs/readme_it.md">İtalyan</a>
     ·
-    <a href="/docs/readme_kr.md">한국어</a>
+    <a href="/docs/readme_kr.md">Koreli</a>
     .
-    <a href="/docs/readme_nl.md">Nederlands</a>
+    <a href="/docs/readme_nl.md">Hollanda</a>
     .
-    <a href="/docs/readme_np.md">नेपाली</a>
+    <a href="/docs/readme_np.md">Nepalce</a>
     .
     <a href="/docs/readme_tr.md">Türkçe</a>
   </p>
 </p>
-<p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
 
-
-<p>
 <a href="https://indiafightscorona.giveindia.org">
-<img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="200" />
+<img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Hindistan logosu ver" width="200" />
 </a>
 
-Are you considering to support the project by donating to me? Please DON'T!!  
+Bana bağış yaparak projeyi desteklemeyi düşünüyor musunuz? Lütfen YAPMAYIN!!
 
-Instead, Help India fight 2nd deadly wave of COVID,  
-Thousands of people are dying in India for lack of Oxygen & COVID related necessary infrastructure.  
+Bunun yerine, Hindistan'ın 2. ölümcül COVID dalgasıyla savaşmasına yardım edin,
+Hindistan'da binlerce insan Oksijen ve COVID ile ilgili gerekli altyapı eksikliği nedeniyle ölüyor. 
 
-Visit [https://indiafightscorona.giveindia.org](https://indiafightscorona.giveindia.org) and make a small donation to help us fight covid and overcome this crisis.   
-Your small help goes a long way. :heart:
+Ziyaret [https://indiafightscorona.giveindia.org](https://indiafightscorona.giveindia.org) ve covid ile savaşmamıza ve bu krizin üstesinden gelmemize yardımcı olmak için küçük bir bağış yapın.
+Küçük yardımın uzun bir yol kat ediyor. :heart:
 </p>
 
 
-# Features
+# Özellikleri
 
-- [GitHub Stats Card](#github-stats-card)
-- [GitHub Extra Pins](#github-extra-pins)
-- [Top Languages Card](#top-languages-card)
-- [Wakatime Week Stats](#wakatime-week-stats)
-- [Themes](#themes)
-- [Customization](#customization)
-  - [Common Options](#common-options)
-  - [Stats Card Exclusive Options](#stats-card-exclusive-options)
-  - [Repo Card Exclusive Options](#repo-card-exclusive-options)
-  - [Language Card Exclusive Options](#language-card-exclusive-options)
-  - [Wakatime Card Exclusive Option](#wakatime-card-exclusive-options)
-- [Deploy Yourself](#deploy-on-your-own-vercel-instance)
+- [GitHub İstatistik Kartı](#github-stats-card)
+- [GitHub Ekstra Pinler](#github-extra-pins)
+- [En İyi Diller Kartı](#top-languages-card)
+- [Wakatime Hafta İstatistikleri](#wakatime-week-stats)
+- [Temalar](#themes)
+- [Özelleştirme](#customization)
+  - [Ortak Seçenekler](#common-options)
+  - [İstatistik Kartına Özel Seçenekler](#stats-card-exclusive-options)
+  - [Repo Kartına Özel Seçenekler](#repo-card-exclusive-options)
+  - [Dil Kartına Özel Seçenekler](#language-card-exclusive-options)
+  - [Wakatime Kartına Özel Seçenek](#wakatime-card-exclusive-options)
+- [Kendinizi Dağıtın](#deploy-on-your-own-vercel-instance)
 
-# GitHub Stats Card
+# GitHub İstatistik Kartı
 
-Copy-paste this into your markdown content, and that's it. Simple!
+Bunu markdown içeriğinize kopyalayıp yapıştırın, hepsi bu. Basit!
 
-Change the `?username=` value to your GitHub's username.
+`?username=` değerini GitHub'ınızın kullanıcı adıyla değiştirin.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Kral Github Stat](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Emre37destan/github-istatistik)
 ```
 
 _Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone).
@@ -236,16 +233,16 @@ Copy-paste this code into your readme and change the links.
 Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Emre37destan/github-istatistik)
 ```
 
 ### Demo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Emre37destan/github-istatistik)
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/Emre37destan/github-istatistik)
 
 # Top Languages Card
 
@@ -260,7 +257,7 @@ Copy-paste this code into your readme and change the links.
 Endpoint: `api/top-langs?username=anuraghazra`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Emre37destan/github-istatistik)
 ```
 
 ### Exclude individual repositories
@@ -268,7 +265,7 @@ Endpoint: `api/top-langs?username=anuraghazra`
 You can use `?exclude_repo=repo1,repo2` parameter to exclude individual repositories.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Emre37destan/github-istatistik)
 ```
 
 ### Hide individual languages
@@ -276,7 +273,7 @@ You can use `?exclude_repo=repo1,repo2` parameter to exclude individual reposito
 You can use `?hide=language1,language2` parameter to hide individual languages.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/Emre37destan/github-istatistik)
 ```
 
 ### Show more languages
@@ -284,7 +281,7 @@ You can use `?hide=language1,language2` parameter to hide individual languages.
 You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 10 (inclusive), and the default is 5.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/Emre37destan/github-istatistik)
 ```
 
 ### Compact Language Card Layout
@@ -292,34 +289,34 @@ You can use the `&langs_count=` option to increase or decrease the number of lan
 You can use the `&layout=compact` option to change the card design.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Emre37destan/github-istatistik)
 ```
 
 ### Demo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Emre37destan/github-istatistik)
 
 - Compact layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Emre37destan/github-istatistik)
 
 # Wakatime Week Stats
 
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ```md
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Emre37destan/github-istatistik)
 ```
 
 ### Demo
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Emre37destan/github-istatistik)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/Emre37destan/github-istatistik)
 
 - Compact layout
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/Emre37destan/github-istatistik)
 
 ---
 
@@ -369,11 +366,11 @@ Choose from any of the [default themes](#themes)
 
 - Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Emre37destan/github-istatistik)
 
 - Wakatime card
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Emre37destan/github-istatistik)
 
 ---
 
@@ -382,7 +379,7 @@ Choose from any of the [default themes](#themes)
 You usually won't be able to layout the images side by side. To do that you can use this approach:
 
 ```html
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Emre37destan/github-istatistik">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -396,9 +393,9 @@ You usually won't be able to layout the images side by side. To do that you can 
 
 Since the GitHub API only allows 5k requests per hour, my `https://github-readme-stats.vercel.app/api` could possibly hit the rate limiter. If you host it on your own Vercel server, then you don't have to worry about anything. Click on the deploy button to get started!
 
-NOTE: Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D
+NOTE: Since [#58](https://github.com/Emre37destan/github-istatistik/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Emre37destan/github-istatistik)
 
 <details>
  <summary><b> Guide on setting up Vercel  🔨 </b></summary>
@@ -421,24 +418,24 @@ NOTE: Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) we
 
 </details>
 
-## :sparkling_heart: Support the project
+## :sparkling_heart: Projeyi destekleyin
 
-I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously,
-this takes time. You can use this service for free.
+Yapabileceğim hemen hemen her şeyi açık kaynaklı hale getiriyorum ve bu projeleri kullanarak yardıma ihtiyacı olan herkese yanıt vermeye çalışıyorum. Açıkça,
+bu zaman alır. Bu hizmeti ücretsiz olarak kullanabilirsiniz.
 
-However, if you are using this project and are happy with it or just want to encourage me to continue creating stuff, there are few ways you can do it :-
+Ancak, bu projeyi kullanıyorsanız ve bundan memnunsanız veya sadece bir şeyler yaratmaya devam etmem için beni teşvik etmek istiyorsanız, bunu yapmanın birkaç yolu vardır: -
 
-- Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
-- Starring and sharing the project :rocket:
+- Benioku üzerinde github-istatistik kullandığınızda uygun kredi vermek, ona geri bağlantı vermek :D
+- Projede rol alma ve paylaşma :roket:
 - [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
 
-Thanks! :heart:
+Teşekkürler! :heart:
 
 ---
 
 [![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
 
 
-Contributions are welcome! <3
+Katkılara açığız! <3
 
-Made with :heart: and JavaScript.
+:heart: ve JavaScript ile yapılmıştır.
